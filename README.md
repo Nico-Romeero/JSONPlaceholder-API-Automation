@@ -1,4 +1,4 @@
-# API-PRACTICE
+# JSONPlaceholder-API-Automation
 
 A project to practice API testing using **Axios** and **Jest** with the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API.
 
@@ -20,7 +20,7 @@ This project demonstrates how to automate API tests using Axios for HTTP request
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/API-PRACTICE.git
+   git clone https://github.com/your-username/JSONPlaceholder-API-Automation.git
    ```
 2. Navigate to the project folder:
    ```bash
