@@ -4,7 +4,7 @@ A project to demonstrate with the [JSONPlaceholder](https://jsonplaceholder.typi
 
 ## Description
 
-This project demonstrates how to automate API tests using Axios for HTTP requests and Jest for testing. It includes examples of GET, POST, PUT, and DELETE requests.
+This project demonstrates how to automate API tests using **Axios** for HTTP requests and **Jest** for testing. It includes examples of GET, POST, PUT, and DELETE requests.
 
 ## Table of Contents
 
