@@ -1,6 +1,6 @@
 # JSONPlaceholder-API-Automation
 
-A project to demonstrate API automation using **Axios** for HTTP requests and **Jest** for testing. The project includes examples of **GET, POST, PUT, and DELETE** operations with the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API.
+A project to demonstrate with the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API.
 
 ## Description
 
