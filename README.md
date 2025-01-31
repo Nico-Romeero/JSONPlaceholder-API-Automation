@@ -10,11 +10,9 @@ This project demonstrates how to automate API tests using **Axios** for HTTP req
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Tests](#tests)
 - [Technologies](#technologies)
-- [Contributions](#contributions)
-- [License](#license)
+
 
 ## Installation
 
